@@ -1,3 +1,6 @@
+
+PROPIETARIO: ANDRES FELIPE GARCIA BARRERO A00410510
+
 # Taller Práctico: Sistema de Telemetría IoT sobre UDP
 
 Bienvenido(a) a la actividad práctica individual de programación de sockets UDP en Java.
