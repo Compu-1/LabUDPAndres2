@@ -61,6 +61,7 @@ public class SensorClient {
     public String sendAndReceive(String message) throws IOException {
         // TODO Paso 3.1: Crear un DatagramSocket (se recomienda usar bloque try-with-resources).
 
+
         // TODO Paso 3.2: Configurar el tiempo de espera máximo mediante socket.setSoTimeout(this.timeoutMs).
 
         // TODO Paso 3.3: Convertir 'message' a bytes en UTF-8 y construir el DatagramPacket
